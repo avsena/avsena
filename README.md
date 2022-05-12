@@ -1,37 +1,19 @@
- 18 linhas (12 sloc) 1.2 KB 
-   
- Alfredo Sena
+# Alfredo Sena
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" largura="1px"> Hello world! &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" largura="2px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
- Sou estudante de Graduação em Ciência da Computação na <a href="https://www.unifacs.br/", > Universidade Salvador. </a>
+			Welcome
+   Eu sou graduando em Ciência da Computação na <a href="https://www.unifacs.br/"> Universidade Salvador. </a> <br>
+    
 </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-sena-5b6bb5186/)](https://www.linkedin.com/in/alfredo-sena-5b6bb5186/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/alfredosena_/)](https://www.instagram.com/alfredosena_/)
+<br>
 
-! [Estatísticas do Github de Shubhamdeep] (https://github-readme-stats.vercel.app/api?username=dinhostork&show_icons=true&hide_border=true)
+
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=avsena&show_icons=true&hide_border=true)
 
 <br>
-<!--
-**avsena/avsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Contatos:
-
-<div>
-
-<a href="https://instagram.com/alfredosena_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alfredo-sena-5b6bb5186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
