@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+<p>
+  <em>
+   I am student of Computer Science at the  <a href="https://www.unifacs.br/"> Universidade Salvador. </a> <br>
+   <b>Electronic    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>
+</p>
+
 <!--
 **avsena/avsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
