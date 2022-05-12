@@ -1,11 +1,18 @@
-  Alfredo Sena
+ 18 linhas (12 sloc) 1.2 KB 
+   
+ Alfredo Sena
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" largura="29px"> Hello world! &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" largura="24px">
 
 <p>
   <em>
-   I am student of Computer Science at the  <a href="https://www.unifacs.br/"> Universidade Salvador. </a> <br>
+ Sou estudante de Graduação em Ciência da Computação na <a href="https://www.unifacs.br/", > Universidade Salvador. </a>
+</p>
 
+
+! [Estatísticas do Github de Shubhamdeep] (https://github-readme-stats.vercel.app/api?username=dinhostork&show_icons=true&hide_border=true)
+
+<br>
 <!--
 **avsena/avsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
