@@ -9,7 +9,7 @@
 <p>
   <em>
 			
-   Eu sou graduando em Ciência da Computação na <a href="https://www.unifacs.br/"> Universidade Salvador. </a> <br>
+   Eu sou estudente em Ciência da Computação na <a href="https://www.unifacs.br/"> Universidade Salvador. </a> <br>
     
 </p>
 	
