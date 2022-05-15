@@ -26,6 +26,6 @@ Contact me: 👇🏻
 
 Contact me: 👇🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-sena-5b6bb5186/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredosena_/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avnssena@gmail.com) [![CNPQ](https://img.shields.io/badge/Lattes-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](http://lattes.cnpq.br/5748754176601506/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-sena-5b6bb5186/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredosena_/) [![Gmail](http://buscatextual.cnpq.br/buscatextual/images/titulo-sistema.png?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avnssena@gmail.com) [![CNPQ](https://img.shields.io/badge/Lattes-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](http://lattes.cnpq.br/5748754176601506/)
 
 <br>
