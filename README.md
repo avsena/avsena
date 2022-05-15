@@ -24,8 +24,8 @@ Contact me: 👇🏻
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=avsena&show_icons=true&hide_border=true)
 	
 
+Contact me: 👇🏻
 
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ohmyguh) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-g-passos/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.gpassos/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girardigustavo.03@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-sena-5b6bb5186/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredosena_/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avnssena@gmail.com) [![CNPQ](https://img.shields.io/badge/Lattes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://lattes.cnpq.br/5748754176601506/)
 
 <br>
