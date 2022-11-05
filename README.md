@@ -9,7 +9,7 @@
 <p>
 	<em>
 		<br>
-		Alfredo Victor Sena, nascido em Salvador, Bahia. É estudante Ciência da Computação na <a href="https://www.unifacs.br/">Universidade Salvador</a>, realizou curso Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI/BA Dendezeiros. Ele também realizou curso Básico de Informática e Manutenção de Micro. Participou do Programa Jovem Aprendiz através da Instituição ISBET/BA. Foi estagiário na Universidade do Estado da Bahia (UNEB). Possui Conhecimento Básico em Marketing Digital. É bilíngue (português-inglês) através do CNA Idiomas. Atualmente é bolsista de estudo e pesquisa CNPq colocando em prática seus conhecimentos da linguagem de programação e suas tecnologias.	
+		Alfredo Victor Sena, nascido em Salvador, Bahia. É estudante Ciência da Computação na <a href="https://www.unifacs.br/">Universidade Salvador</a>, realizou curso Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI/BA Dendezeiros. Ele também realizou curso Básico de Informática e Manutenção de Micro. Participou do Programa Jovem Aprendiz através da Instituição ISBET/BA. Foi estagiário na Universidade do Estado da Bahia (UNEB). Possui Conhecimento Básico em Marketing Digital. É bilíngue (português-inglês) através do CNA Idiomas. Participou de um Programa de Bolsas de Iniciação Científica CNPq. Atualmente é Estagiário da <a href="https://compass.uol/pt/home/">Compass</a> colocando em prática seus conhecimentos da linguagem de programação e suas tecnologias Front-End.	
 </p>
 
 ##
